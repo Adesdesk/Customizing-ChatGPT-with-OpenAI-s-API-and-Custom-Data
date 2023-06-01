@@ -1,5 +1,5 @@
-# Customizing-ChatGPT-with-OpenAI-s-API-and-Star-Trek-Data
-##### Customizing a Chatbot with OpenAI’s API and Star Trek Data to include knowledge about custom text a user provides.
+# Customizing-ChatGPT-with-OpenAI-s-API-and-Custom Data
+##### Customizing a Chatbot with OpenAI’s API and Custom Data to include knowledge about custom text a user provides.
 ###### (OpenAI API key removed from the workbook against vulnerabilities).
 
 With the awareness that chatGPT's knowledge is generally limited to happenings prior to September 2021, I attempted to ask it a question about a more recent development than it knows and as expected, it responded that it has no knowledge of that information. (Screenshot as follows).
